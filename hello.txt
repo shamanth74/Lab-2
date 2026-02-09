@@ -1,6 +1,6 @@
 
 hello world
 
-git practise
+devops lab
 shreyas
 hi shamanth 
